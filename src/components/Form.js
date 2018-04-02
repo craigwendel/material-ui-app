@@ -29,7 +29,7 @@ export default class Form extends Component {
       <div className='form'>
         <Paper zDepth={3} style={cardStyle}>
           <Card>
-            <CardTitle title='Learn more' subtitle='Sign up below'/>
+            <CardTitle title='Learn more' subtitle='Sign up below for updates!' />
           </Card>
         </Paper>
         <Paper zDepth={3} style={style}>
